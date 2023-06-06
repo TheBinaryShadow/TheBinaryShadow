@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @TheBinaryShadow
-- 👀 I’m interested in windows and linux general development, mostly scripting languages. <3 shell scripts and powershell scripts
-- 🌱 I’m currently learning Azure, Oracle CP, Google CP, software defined networking, ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... r.l@techie.com
+<h1 align="center">Hi 👋, I'm Binary</h1>
+<h3 align="center">A friendly hacker from Croatia.</h3>
 
-<!---
-TheBinaryShadow/TheBinaryShadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheBinaryShadow&label=Profile%20views&color=0e75b6&style=flat" alt="TheBinaryShadow" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBinaryShadow&show_icons=true&locale=en" alt="TheBinaryShadow" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheBinaryShadow&" alt="TheBinaryShadow" /></p>
