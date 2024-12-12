@@ -1,1 +1,1 @@
-<p><a href="https://bshadow.us/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrieken" alt="TheBinaryShadow" /></a></p>
+<a href="https://bshadow.us/"><img src="https://github-readme-streak-stats.herokuapp.com?user=SteveL-MSFT&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
