@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
-  <title id="title">The Binary Shadow</title>
-  <desc id="desc">Light profile banner for Robert L. with an abstract engineering stack.</desc>
+  <title id="title">Binary Shadow</title>
+  <desc id="desc">Light profile banner</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f6faf9"/>
@@ -26,16 +26,16 @@
     <path d="M74 45h48M74 45v25M999 45h26M999 45v25M74 375h48M74 375v-25M999 375h26M999 375v-25" fill="none" stroke="#007b73" stroke-opacity=".55" stroke-width="2"/>
 
     <text x="82" y="94" fill="#007b73" font-family="Consolas, Menlo, monospace" font-size="21" font-weight="700" letter-spacing="4">ROBERT L.  /  SYSTEMS AND SECURITY</text>
-    <text x="78" y="202" fill="#132a33" font-family="Arial, Helvetica, sans-serif" font-size="77" font-weight="700" letter-spacing="1">THE BINARY SHADOW</text>
+    <text x="78" y="202" fill="#132a33" font-family="Arial, Helvetica, sans-serif" font-size="77" font-weight="700" letter-spacing="1">BINARY SHADOW</text>
     <rect x="83" y="231" width="73" height="4" rx="2" fill="url(#accent)"/>
     <text x="82" y="283" fill="#294952" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" letter-spacing="2">NETWORKING  /  INFRASTRUCTURE  /  APPLIED RESEARCH</text>
-    <text x="82" y="345" fill="#486772" font-family="Consolas, Menlo, monospace" font-size="18" letter-spacing="2">FROM PACKETS TO PLATFORMS</text>
+    <text x="82" y="345" fill="#486772" font-family="Consolas, Menlo, monospace" font-size="18" letter-spacing="2">I'VE NEVER WRITTEN THE BEST CODE I'VE EVER WRITTEN.</text>
 
     <g transform="translate(1092 45)">
       <rect width="420" height="330" rx="16" fill="#f7fbfa" stroke="#7d9fa5" stroke-width="2"/>
       <path d="M0 52h420" stroke="#7d9fa5"/>
       <circle cx="25" cy="26" r="5" fill="#007b73"/>
-      <text x="44" y="32" fill="#486772" font-family="Consolas, Menlo, monospace" font-size="15" letter-spacing="2">ENGINEERING STACK</text>
+      <text x="44" y="32" fill="#486772" font-family="Consolas, Menlo, monospace" font-size="15" letter-spacing="2">STACK</text>
       <path d="M41 90v191" stroke="#007b73" stroke-opacity=".5" stroke-width="2"/>
       <circle cx="41" cy="91" r="6" fill="#007b73"/>
       <circle cx="41" cy="155" r="6" fill="#007b73"/>
@@ -49,7 +49,7 @@
       <text x="100" y="98" fill="#1c3d45" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">01  PACKETS</text>
       <text x="100" y="162" fill="#1c3d45" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">02  PROTOCOLS</text>
       <text x="100" y="226" fill="#1c3d45" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">03  SYSTEMS</text>
-      <text x="100" y="290" fill="#1c3d45" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">04  TRUST</text>
+      <text x="100" y="290" fill="#1c3d45" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">04  FLAGS</text>
     </g>
   </g>
 </svg>
